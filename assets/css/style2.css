@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&family=Poppins:ital,wght@1,300&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing:border-box;
+    
+}   
+
+li {
+    margin: 2px;
+}
+
+.phones #xr {
+    background-color:red;
+    display:inline-block;
+    color:white;
+    border:1px solid red;
+    padding:20px 463px 20px 10px
+}
+
+.phones #i11 {
+    background-color: rgb(165, 189, 210);
+    display:inline-block;
+    color:black;
+    border:1px solid  rgb(165, 189, 210);
+    padding:20px 373px 20px 10px
+}
+
+.phones #a10 {
+    background-color:rgb(224, 197, 167);
+    display:inline-block;
+    color:black;
+    border:1px solid rgb(224, 197, 167);
+    padding:20px 303px 20px 10px
+}
+
+.phones #a50 {
+    background-color: cyan;
+    display:inline-block;
+    color:black;
+    border:1px solid cyan;
+    padding:20px 242px 20px 10px
+}
+
+.phones #a20 {
+    background-color: black;
+    display:inline-block;
+    color: white;
+    border:1px solid black;
+    padding:10px 192px 20px 10px
+}

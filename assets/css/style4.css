@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&family=Poppins:ital,wght@1,300&display=swap') ;
+
+* {
+    margin: 0 ;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+  
+body {
+    font-family: Montserrat;
+}
+.container {
+    background-color: #06b8a9;
+    display: inline - block;
+    padding: 10px;
+}
+
+div #logo {
+    font-size: 20px;
+    display: inline-block;
+    color: #ffffff;
+    text-align: center;
+    padding: 20px;
+
+}
+div {
+    display: inline-block;
+}
+
+li {
+    display: inline-block;
+    padding: 5px;
+    margin: 10px ;
+    color: #ffffff;
+}

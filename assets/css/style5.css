@@ -1,0 +1,55 @@
+* {
+    margin: 3px;;
+    padding: 0px;
+    box-sizing:border-box;
+}
+
+img {
+    text-align: left;
+    width: 500px;
+    display: block;
+    margin-right: auto;
+}
+
+h2 {
+    padding-bottom: 0px;
+}
+
+#price {
+    color:red;
+    
+}
+
+.description, .container,.button {
+    text-align: left;
+    width: 400px;
+    display: block;
+    padding: 20px 3px;
+   
+}
+.description {
+    background-color: #e9e7df;
+    padding: 10px 0;
+    margin: auto 3px ;
+    text-align: left;
+    width: 450px;
+
+}
+
+.sale {
+    border: 2px solid black;
+    width: 500px;
+}
+
+button {
+    padding:4px;
+    background-color: white;
+    border-style: hidden;
+    color:blueviolet;
+    font-weight: 550;
+
+}
+
+#back {
+    font-style: italic;
+}

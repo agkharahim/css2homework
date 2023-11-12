@@ -1,0 +1,138 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&family=Roboto:ital,wght@0,300;0,400;0,700;1,500&display=swap');
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+
+
+ul li, li a , .h2{
+    text-decoration-line: none;
+    display: inline-block;
+    padding: 5px 3px;
+    font-size: 20px;
+    font-family: 'Poppins', sans-serif;
+    color: #000000;
+    
+}
+
+ul {
+    text-align: center;
+}
+
+#home {
+    background-color:#EDB91B
+}
+
+div h1 {
+    font-size: 60px;
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+   
+}
+
+.home p {
+    font-size: 30px;
+    font-family: 'Poppins', sans-serif;
+    font-style: italic;
+    text-align: center;
+    padding: 20px 0;
+}
+.home {
+    text-align: center;
+    padding: 100px 0;
+
+}
+.home button {
+    display: inline-block;
+    background-color: #1d809f;
+    border-style: none;
+    color: white;
+    font-size: 20px;
+    border-radius:9px;
+    padding: 20px 30px;
+
+}
+
+button {
+    text-align: center;
+}
+
+
+
+.about {
+    text-align: center;
+    padding: 80px 0;
+    
+}
+
+.about h3 {
+    font-size: 30px;
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+    padding: 20px 0;
+
+}
+
+.about p {
+    font-size: 17px;
+    padding: 20px;
+}
+
+.about button {
+    padding: 20px 30px;
+    font-size: 18px;
+    border: none;
+    border-radius: 8px;
+    background-color: #212529;
+    color: white;
+}
+
+.services {
+    background-color:#1D809F;
+    text-align: center;
+    padding: 70px;
+
+}
+.serv {
+    border: 1px solid white;
+    border-radius:50%; 
+    display: inline-block; 
+    margin: 0 20px; 
+    width: 260px; 
+    height: 260px; 
+    padding-top: 80px;
+    
+}
+.serv p {
+    font-size: 14px;
+    color: white;
+    display: inline-block;
+}
+
+.serv h3 {
+    font-size: 30px;
+    color: white;
+    
+}
+
+.services h5 {
+    color:#EDB91B;
+    font-size:18px;
+    padding:10px;
+}
+
+.services h2 {
+    color:white;
+    font-size: 40px;
+    padding-bottom: 40px;
+}
+
+footer {
+    text-align: center;
+    padding: 60px;
+}

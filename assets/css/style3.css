@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css2?family=Heebo:wght@100;500&family=Montserrat:wght@500&family=Noto+Sans+Kawi:wght@400;600&display=swap');
+
+body {
+    background-color:#6cf5d5;
+    font-family: 'Noto Sans Kawi', sans-serif;
+}
+
+.project {
+    background-color:white;
+    padding: 10px 20px;
+    width: 220px;
+    height: 200px;
+    display: inline-block;
+    margin-left: 5px;
+    text-align: left;
+    
+}
+
+
+.money {
+    background-color:#4259db;
+    padding: 10px 20px;
+    width: 220px;
+    height: 200px;
+    display: inline-block;
+    color:white;
+    margin-left: 5px;
+    text-align: left;
+
+
+}
+
+.customer {
+    background-color:#697ef0;
+    padding: 10px 20px;
+    width: 220px;
+    height: 200px;
+    display: inline-block;
+    color:white;
+    margin-left: 5px;
+    text-align: left;
+    
+
+}
+
+.sales {
+    background-color:#a5b2fa;
+    padding: 10px 20px;
+    width: 220px;
+    height: 200px;
+    display: inline-block;
+    color:white;
+    margin-left: 5px;
+    text-align: left;
+    
+
+}
+
+h3 {
+    font-size: 18px;
+
+}
+
+p {
+    font-size: 14px;
+}
+
+.container {
+    margin-left: auto;
+    text-align: center;
+    padding: auto;
+    margin-top: 30vh;
+}
